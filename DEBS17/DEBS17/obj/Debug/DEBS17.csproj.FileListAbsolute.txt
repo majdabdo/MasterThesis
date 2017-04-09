@@ -1,0 +1,16 @@
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\DEBS17.exe.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\DEBS17.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\DEBS17.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\dotNetRDF.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\VDS.Common.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\dotNetRDF.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\bin\Debug\VDS.Common.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\obj\Debug\DEBS17.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\obj\Debug\DEBS17.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\DEBS17\DEBS17\obj\Debug\DEBS17.csprojResolveAssemblyReference.cache
