@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DEBS17
@@ -52,7 +53,7 @@ namespace DEBS17
 
         private string GetAnomalyID()
         {
-            ID++;
+            Interlocked.Increment(ref ID);
             return Convert.ToString(ID);
         }
         public void WriteResultsOnFile(string str)

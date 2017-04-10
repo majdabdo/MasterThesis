@@ -50,3 +50,11 @@ C:\Users\AFFFOOOOOOD\Desktop\Master Thesis\DEBS17\DEBS17\bin\Release\HtmlAgility
 C:\Users\AFFFOOOOOOD\Desktop\Master Thesis\DEBS17\DEBS17\bin\Release\RabbitMQ.Client.xml
 C:\Users\AFFFOOOOOOD\Desktop\Master Thesis\DEBS17\DEBS17\bin\Release\VDS.Common.xml
 C:\Users\AFFFOOOOOOD\Desktop\Master Thesis\DEBS17\DEBS17\obj\Release\DEBS17.pdb
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\bin\Release\DEBS17.exe.config
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\obj\Release\DEBS17.exe
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\obj\Release\DEBS17.pdb
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\bin\Release\DEBS17.exe
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\bin\Release\DEBS17.pdb
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\bin\Release\RabbitMQ.Client.dll
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\bin\Release\RabbitMQ.Client.xml
+C:\Users\AFFFOOOOOOD\Desktop\Git\DEBS17\DEBS17\obj\Release\DEBS17.csprojResolveAssemblyReference.cache
